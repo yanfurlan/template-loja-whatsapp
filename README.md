@@ -2,7 +2,7 @@
 
 Um site de loja **simples, moderno e gratuito** para quem quer vender online sem pagar mensalidade e sem saber programar. O cliente escolhe o produto, toca em **Pedir** e a conversa abre no seu WhatsApp com a mensagem já pronta.
 
-**Demonstração:** https://SEU-USUARIO.github.io/template-loja-whatsapp
+**Demonstração:** https://yanfurlan.github.io/template-loja-whatsapp
 
 ![Prévia do template](preview.png)
 
@@ -64,12 +64,6 @@ const STORE = {
 - Escreva descrições curtas, com tamanho, ingredientes ou material.
 - Coloque o link do site na bio do Instagram e no status do WhatsApp.
 - Responda rápido: quem pede pelo WhatsApp espera resposta na hora.
-
-## Precisa de ajuda?
-
-Não quer mexer no código? Eu configuro tudo para você: produtos, fotos, cores, domínio próprio e publicação.
-
-**Contato:** [WhatsApp](https://wa.me/5500000000000) | seuemail@exemplo.com
 
 ## Licença
 
