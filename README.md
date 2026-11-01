@@ -2,7 +2,7 @@
 
 Um site de loja **simples, moderno e gratuito** para quem quer vender online sem pagar mensalidade e sem saber programar. O cliente escolhe o produto, toca em **Pedir** e a conversa abre no seu WhatsApp com a mensagem já pronta.
 
-**Demonstração:** https://yanfurlan.github.io/template-loja-whatsapp
+**Demonstração:** https://yanfurlan.github.io/template-loja-whatsapp/
 
 ![Prévia do template](preview.png)
 
